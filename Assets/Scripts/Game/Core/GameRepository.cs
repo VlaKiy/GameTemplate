@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assets.Scripts.Game.Main
+namespace Assets.Scripts.Game.Core
 {
     internal class GameRepository
     {
